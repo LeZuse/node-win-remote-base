@@ -1,0 +1,17 @@
+{
+  "name": "win-remote-base",
+  "version": "0.0.0",
+  "description": "Base script for remote Windows control",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "base": "./bin/base.js"
+  },
+  "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.8.0"
+  }
+}
