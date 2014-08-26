@@ -1,6 +1,6 @@
 {
   "name": "win-remote-base",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Base script for remote Windows control",
   "main": "main.js",
   "scripts": {
