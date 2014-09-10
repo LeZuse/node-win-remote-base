@@ -12,7 +12,8 @@
   "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
   "license": "MIT",
   "dependencies": {
-    "coffee-script": "~1.7.0"
+    "coffee-script": "~1.7.0",
+    "tar": "~1.0.1"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
