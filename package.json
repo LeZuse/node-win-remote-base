@@ -13,7 +13,8 @@
   "license": "MIT",
   "dependencies": {
     "coffee-script": "~1.7.0",
-    "tar": "~1.0.1"
+    "tar": "~1.0.1",
+    "fstream": "~1.0.2"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
